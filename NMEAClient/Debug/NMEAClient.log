@@ -1,0 +1,4 @@
+﻿  NMEAClient.cpp
+NMEAClient.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall GGA::GGA(void)" (__imp_??0GGA@@QAE@XZ) referenced in function _main
+NMEAClient.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall GGA::GGA(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (__imp_??0GGA@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function _main
+D:\VisualStudioCommunityProjects\NMEAClient\Debug\NMEAClient.exe : fatal error LNK1120: 2 unresolved externals

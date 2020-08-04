@@ -1,0 +1,2 @@
+﻿  NMEAClient.cpp
+LINK : fatal error LNK1181: cannot open input file 'GGAParser.lib'
